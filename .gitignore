@@ -1,2 +1,15 @@
+# Ignore .vscode and .cp folders everywhere
 **/.vscode/
 **/.cp/
+
+# Optional: Ignore build artifacts
+*.o
+*.out
+*.exe
+
+# Optional: Ignore backup or temp files
+*~
+*.log
+
+# Ignore compiled VSCode settings (optional)
+.vscode/
